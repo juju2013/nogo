@@ -33,14 +33,14 @@ Usage
 Exemple
 -------
 
- > cd /some_path/myproject
- > nogo -init
- > echo /corporate/common/golibs >> .gopath
- > echo ~/golibs >> .gopath
- > git clone http://github.com/usr/projet src/
- > cd src
- > nogo build .
+    cd /some_path/myproject
+    nogo -init
+    echo /corporate/common/golibs >> .gopath
+    echo ~/golibs >> .gopath
+    git clone http://github.com/usr/projet src/
+    cd src
+    nogo build .
 
 Credits
 -------
-Ideas from [golang]:https://github.com/golang/go/issues/17271#issuecomment-265932522 and [gopath]:https://github.com/nickcarenza/gopath
+Ideas from [golang](https://github.com/golang/go/issues/17271#issuecomment-265932522) and [gopath](https://github.com/nickcarenza/gopath)
