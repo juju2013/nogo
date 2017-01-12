@@ -32,6 +32,7 @@ Usage
 
 Exemple
 -------
+
  > cd /some_path/myproject
  > nogo -init
  > echo /corporate/common/golibs >> .gopath
